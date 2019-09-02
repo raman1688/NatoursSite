@@ -1,0 +1,22 @@
+{
+  "name": "natourssite",
+  "version": "1.0.0",
+  "description": "natours site by Raman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raman1688/NatoursSite.git"
+  },
+  "author": "Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raman1688/NatoursSite/issues"
+  },
+  "homepage": "https://github.com/raman1688/NatoursSite#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
